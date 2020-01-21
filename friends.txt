@@ -4,6 +4,7 @@ Jason Swift
 Emily Funk
 Jessica Schellenberger
 Kellen Young
+<<<<<<< HEAD
 Jane Welling
 Anna Moore
 Emily Hurst
@@ -13,3 +14,7 @@ Tom Brown
 Tim Brown
 Sarah Clay
 Elaine Daniels
+=======
+Bridget Hardesty
+Kim Hesting
+>>>>>>> party
